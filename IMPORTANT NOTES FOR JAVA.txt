@@ -1,0 +1,72 @@
+3.LOGICAL
+AND-&&
+OR-//
+NOT-!
+XOR-ᔕ EXCLUSIVE OR - WHEN BOTH INPUITS ARE SAME THE OUTPUT WILL BE FALSE(0) , WHEN INPUTS ARE DIFFERENT THEN THE OUTPUT WILL BE TRUE
++
+
+char ends with single quotes
+string ends with double quotes
+S is capital in system.out.println and string
+
+
+
+
+datatypes
+1. whole numbers-int
+2. decimals-float,double
+3.names - string
+4.for only single letter / character- char
+5.true/false - Boolean
+
+
+
+
+byte-8 bits
+short(for using integers but range is very small)-2byte-16bits
+int - 4bytes
+char-1byte-8bits
+float-4bytes-32bits(considers upto 5 decimals after .)
+double-8bytes-64bits(consider upto 15 decimals after.)
+long-8 bytes
+
+
+JAVAC FOR COMPILING
+JAVA FOR RUNNING
+
+
+
+
+JAVA NOTES
+all the java programms should be saved as class name.java
+IN java every statements ends with semicolon(;)
+S is capital in system.out.println and string
+file name and class name should be same in PUBLIC CLASS
+for compiler we have to use file name
+for running we have to use class name
+Its not important to add "public " in public class main
+int my sum = a+b wont work because theres space between my and sum so use (_)if u want to add space
+
+
+RULES FOR WRITING THE VARIABLES:
+we cannot use predefined words as names(variables)
+always in lowercase letters
+names should not start with any numbers or characters
+dont leave spaces between variable names
+we can use underscore(_),ex:(my_name)
+
+ORDER FOLLOWED BY JAVA
+P = Parentheses  ()
+M = Multiplication  *
+D = Division  /
+A = Addition  +
+S = Subtraction -
+
+
+
+
+
+VERY IMP
+1.in if else if ladder , u dont write if else , you write else if also THE LAST ONE SHOULD BE ELSE NOT ELSE IF(If else❌ else if✅)
+2.A ELSE SHOULDNT HAVE A CONDITION LIKE IF AND ELSE IF , YOU JUST NEED TO TELL IT WHAT TO EXECUTE WITHOUT GIVING A CONDITION
+3.if(char=="Suite") is wrong when you want to compare the string value instead  if(char.equals("Suite")) is correct

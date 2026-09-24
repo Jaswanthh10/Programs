@@ -1,0 +1,18 @@
+JAVA NOTES
+all the java programms should be saved as class name.java	
+IN java every statements ends with semicolon(;)
+S is capital in system.out.println and string
+file name and class name should be same in PUBLIC CLASS
+for compiler we have to use file name
+for running we have to use class name
+Its not important to add "pulic"
+int my sum = a+b wont work because theres space between my and sum so use (_)if u want to add space
+
+
+RULES FOR WRITING THE VARIABLES:
+we cannot use predefined words as names(variables)
+always in lowercase letters
+names should not start with any numbers or characters
+dont leave spaces between variable names
+we can use underscore(_),ex:(my_name)
+

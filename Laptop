@@ -1,0 +1,8 @@
+public class Laptop 
+Public static void main(String[] args) 
+{
+    String brand = "Dell";
+    int ram = 16;
+    double price = 999.99;
+    
+    System.out.println("Brand: " + 
